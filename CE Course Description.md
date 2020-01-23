@@ -1,10 +1,10 @@
 <div dir="rtl">
-# سرفصل های انگلیسی درس های مهندسی نرم افزار مطابق با چارت وزرات علوم
 
-سلام! بعضی از دانشگا ها مثل TUM و ETH .موقع اپلای از شما سرفصل دروسی رو که در کارشناسی و یا کارشناسی ارشد گذروندین میخوان. این صفحه ترجمه ای از فایل وزرات علومه که با کمک چارت دانشگاه های واترلو و مونیخ تهیه شده
+# سرفصل های انگلیسی درس های مهندسی نرم افزار مطابق با چارت وزرات علوم
 
 اگه درسی رو توی این لیست نمیبینین، لطفا ریکوئست بزنین تا اضافه بشه و وقت کلی از همکلاسیها و دوستاتون بیخود هدر نره :) برای کارهای آتی، لطفا منابع درس ها رو اضافه کنین.
 </div>
+
 ## General Mathematics I (Calculas I)
 
 This calculus course covers differentiation and integration of functions of one variable, and concludes with a brief discussion of infinite series. Calculus is fundamental to many scientific disciplines including physics, engineering, and economics.
